@@ -15,9 +15,9 @@ Defaul use:
 
 TODO:
 Challenge functions
-- [ ] add
-- [ ] del
-- [ ] list
+- [x] add
+- [x] del
+- [x] list
 
 	
 Standard functions
