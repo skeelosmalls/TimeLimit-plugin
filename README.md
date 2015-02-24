@@ -12,3 +12,14 @@ Defaul use:
 	timelimit ch add [challenge name] [time in MM:SS] [commands]
 	timelimit ch del [challenge name]
 	timelimit ch list
+
+TODO:
+Challenge functions
+	[] add
+	[] del
+	[] list
+	
+Standard functions
+	[] start
+	[] stop
+	[] complete
