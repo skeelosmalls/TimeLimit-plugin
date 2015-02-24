@@ -15,11 +15,15 @@ Defaul use:
 
 TODO:
 Challenge functions
-	- [] add
-	- [] del
-	- [] list
+````
+- [ ] add
+- [ ] del
+- [ ] list
+````
 	
 Standard functions
-	- [] start
-	- [] stop
-	- [] complete
+```
+- [ ] start
+- [ ] stop
+- [ ] complete
+````
