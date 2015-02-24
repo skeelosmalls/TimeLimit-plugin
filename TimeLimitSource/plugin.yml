@@ -1,0 +1,21 @@
+## YAML Template.
+---
+name: TimeLimit
+author: SkeeloSmalls
+main: skeelosmalls\TimeLimit\Main
+version: 1.0.1
+api: [1.0.0]
+
+commands:
+ timelimit:
+  usage: /timelimit <ch|start|stop|complete|list> 
+  permission: timelimit.command.timelimit;timelimit.command.timelimit.ch;timelimit.command.timelimit.start;timelimit.command.timelimit.stop;timelimit.command.timelimit.complete;timelimit.command.timelimit.list
+permissions:
+ timelimit.*:
+  description: Allows all permission of TimeLimit
+  children:
+   timelimit.command.*:
+    description: Allows all commands of TimeLimit
+    children:
+     timelimit.command.timerban:
+      description: Allows TimeLimit command
