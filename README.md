@@ -11,7 +11,7 @@ Defaul use:
 	timelimit ch <add|del|list> //Making the Challenges:
 	timelimit ch add [challenge name] [time in MM:SS] [commands]
 	timelimit ch del [challenge name]
-	timelimit ch list
+	timelimit ch list <all/pagenumber>
 
 TODO:
 Challenge functions
