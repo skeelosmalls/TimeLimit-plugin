@@ -26,6 +26,9 @@ Challenge functions
 	
 Standard functions
 - [ ] start
+	- [x] add to db
+	- [ ] Edit so only existing challenges can be run.
+	- [ ]
 - [ ] stop
 - [ ] complete
 
