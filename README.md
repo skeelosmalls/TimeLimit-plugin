@@ -22,13 +22,15 @@ Challenge functions
 - [x] add
 - [x] del
 - [x] list
+- [ ] wins (show the desc list of fastest wins per challenge)
 
 	
 Standard functions
-- [ ] start
+- [x] start
 	- [x] add to db
-	- [ ] Edit so only existing challenges can be run.
-	- [ ]
-- [ ] stop
+	- [x] Edit so only existing challenges can be run.
+	- [x] if failed respawn
+- [x] stop
+ 	- [ ] Stops delayed respawn command
 - [ ] complete
 
