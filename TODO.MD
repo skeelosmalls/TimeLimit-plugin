@@ -17,6 +17,7 @@ Standard functions
 	- [x] add to db
 	- [x] Edit so only existing challenges can be run.
 	- [x] if failed challenge respawn
+	- [ ] respawn to challenge start point.
 - [x] stop
  	- [ ] removes start, stop and active from DB
 - [x] complete 
