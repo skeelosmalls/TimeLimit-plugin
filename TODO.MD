@@ -1,5 +1,5 @@
 #TODO:
-Challenge functions
+Challenge functions 
 - [ ] add
 	- [x] add new challenge with commands
 	- [ ] update challenge with additional command
