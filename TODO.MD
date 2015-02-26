@@ -26,8 +26,24 @@ Standard functions
 Other Stuff
 - Misc:
 	- [ ] Add - "Please run this command in game." to commands
+		- set for these commands
+		- [ ] starttimelimit
+		- [ ] completetimelimit
+		- [ ] 
 - Death Event
 	- [ ] notify player they failed
 	- [ ] stop active challenge
 	 
-		
+- Set permissions for plugin
+	- [ ] Guest access
+		- Challenges
+			- [ ] listchallenge
+		-Timelimit
+			- [ ] starttimelimit
+			- [ ] completetimelimit (limit from being typed in console somehow - so people can't cheat)
+	- [ ] OP access
+		- Challenges
+			- [ ] addchallenge
+			- [ ] delchallenge
+		- Timelimit
+			- [ ] stoptimelimit
